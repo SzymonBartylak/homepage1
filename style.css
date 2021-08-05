@@ -1,10 +1,31 @@
 .header {
-  color:navy;
+  color: navy;
 }
 .article-header {
-  color:hotpink;
+  color: hotpink;
 }
 .section-header {
   color: azure;
   background: black;
+}
+.main {
+  max-width: 1024px;
+  margin-left: 10px;
+  position:relative;
+}
+.navigation {
+  position:fixed;
+  z-index: 2;
+  background: hotpink;
+  top: 60px;
+}
+.footer{
+  position:fixed;
+  z-index: 2;
+  bottom: 10px;
+  background-color:whitesmoke ;
+}
+.footer-image {
+  max-width: 5%;
+  max-height: 5%;
 }
