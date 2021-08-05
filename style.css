@@ -16,8 +16,12 @@
 .navigation {
   position:sticky;
   top:15px;
+  left: 20%;
+  right: 20%;
+  max-width: 1024px;
   z-index: 2;
   background: hotpink;
+  text-align: center;
 }
 .footer{
   position:fixed;
