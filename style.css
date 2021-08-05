@@ -14,10 +14,10 @@
   position:relative;
 }
 .navigation {
-  position:fixed;
+  position:sticky;
+  top:15px;
   z-index: 2;
   background: hotpink;
-  top: 60px;
 }
 .footer{
   position:fixed;
