@@ -1,10 +1,10 @@
 .header {
   color: navy;
 }
-.article-header {
+.article__header {
   color: hotpink;
 }
-.section-header {
+.section__header {
   color: azure;
   background: black;
 }
@@ -29,7 +29,7 @@
   bottom: 10px;
   background-color:whitesmoke ;
 }
-.footer-image {
+.footer--image {
   max-width: 5%;
   max-height: 5%;
 }
